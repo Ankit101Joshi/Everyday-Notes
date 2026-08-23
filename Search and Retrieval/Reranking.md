@@ -1,4 +1,4 @@
-# Reranking — Study Notes
+# Reranking - STEP 2 — Study Notes
 
 ## 1. What Is Reranking?
 
