@@ -1,4 +1,4 @@
-# Retrieval Methods — Study Notes
+# Retrieval Methods STEP 1 — Study Notes
 
 ## 1. Why Retrieval Matters
 
